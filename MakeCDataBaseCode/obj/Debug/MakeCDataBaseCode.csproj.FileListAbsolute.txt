@@ -1,0 +1,17 @@
+D:\Code\CodeBuilder\MakeCDataBaseCode\bin\Debug\MakeCDataBaseCode.exe.config
+D:\Code\CodeBuilder\MakeCDataBaseCode\bin\Debug\MakeCDataBaseCode.exe
+D:\Code\CodeBuilder\MakeCDataBaseCode\bin\Debug\MakeCDataBaseCode.pdb
+D:\Code\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.exe
+D:\Code\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.pdb
+D:\Code\CodeBuilder\MakeCDataBaseCode\bin\Debug\Oracle.DataAccess.dll
+D:\Code\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.csprojResolveAssemblyReference.cache
+D:\百度云同步盘\Code\CodeBuilder\MakeCDataBaseCode\bin\Debug\MakeCDataBaseCode.exe.config
+D:\百度云同步盘\Code\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.exe
+D:\百度云同步盘\Code\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.pdb
+C:\Users\tlzzu\Desktop\CodeBuilder\MakeCDataBaseCode\bin\Debug\MakeCDataBaseCode.exe.config
+C:\Users\tlzzu\Desktop\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.exe
+C:\Users\tlzzu\Desktop\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.pdb
+C:\Users\tlzzu\Desktop\CodeBuilder\MakeCDataBaseCode\bin\Debug\MakeCDataBaseCode.exe
+C:\Users\tlzzu\Desktop\CodeBuilder\MakeCDataBaseCode\bin\Debug\MakeCDataBaseCode.pdb
+C:\Users\tlzzu\Desktop\CodeBuilder\MakeCDataBaseCode\bin\Debug\Oracle.DataAccess.dll
+C:\Users\tlzzu\Desktop\CodeBuilder\MakeCDataBaseCode\obj\Debug\MakeCDataBaseCode.csprojResolveAssemblyReference.cache

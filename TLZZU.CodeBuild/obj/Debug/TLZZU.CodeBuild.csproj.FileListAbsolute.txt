@@ -1,0 +1,4 @@
+C:\Users\tlzzu\Desktop\CodeBuilder\TLZZU.CodeBuild\bin\Debug\Lenovo.CodeBuild.dll
+C:\Users\tlzzu\Desktop\CodeBuilder\TLZZU.CodeBuild\bin\Debug\Lenovo.CodeBuild.pdb
+C:\Users\tlzzu\Desktop\CodeBuilder\TLZZU.CodeBuild\obj\Debug\Lenovo.CodeBuild.dll
+C:\Users\tlzzu\Desktop\CodeBuilder\TLZZU.CodeBuild\obj\Debug\Lenovo.CodeBuild.pdb

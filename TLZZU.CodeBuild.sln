@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "测试案例", "测试案例", "{CE329079-6328-4E56-B726-ABF1A4DC4FB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLZZU.CodeBuild.DemoModel", "TLZZU.CodeBuild.DemoModel\TLZZU.CodeBuild.DemoModel.csproj", "{8511BFF4-F1FF-420C-9CA1-DA8F46583906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLZZU.CodeBuild.DemoDAL", "TLZZU.CodeBuild.DemoDAL\TLZZU.CodeBuild.DemoDAL.csproj", "{FC67B46C-6EFE-4E85-B689-255F09574A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakeCDataBaseCode", "MakeCDataBaseCode\MakeCDataBaseCode.csproj", "{CEDBE60B-FE3F-4F99-8ACF-87893AE55788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLZZU.CodeBuild.Oracle", "TLZZU.CodeBuild.Oracle\TLZZU.CodeBuild.Oracle.csproj", "{17329D65-C489-4752-B070-162516A9A1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TLZZU.CodeBuild", "TLZZU.CodeBuild\TLZZU.CodeBuild.csproj", "{97086301-F8BB-4109-9B34-F71E1D93191F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8511BFF4-F1FF-420C-9CA1-DA8F46583906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8511BFF4-F1FF-420C-9CA1-DA8F46583906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8511BFF4-F1FF-420C-9CA1-DA8F46583906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8511BFF4-F1FF-420C-9CA1-DA8F46583906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC67B46C-6EFE-4E85-B689-255F09574A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC67B46C-6EFE-4E85-B689-255F09574A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC67B46C-6EFE-4E85-B689-255F09574A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC67B46C-6EFE-4E85-B689-255F09574A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEDBE60B-FE3F-4F99-8ACF-87893AE55788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEDBE60B-FE3F-4F99-8ACF-87893AE55788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEDBE60B-FE3F-4F99-8ACF-87893AE55788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEDBE60B-FE3F-4F99-8ACF-87893AE55788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17329D65-C489-4752-B070-162516A9A1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17329D65-C489-4752-B070-162516A9A1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17329D65-C489-4752-B070-162516A9A1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17329D65-C489-4752-B070-162516A9A1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97086301-F8BB-4109-9B34-F71E1D93191F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97086301-F8BB-4109-9B34-F71E1D93191F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97086301-F8BB-4109-9B34-F71E1D93191F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97086301-F8BB-4109-9B34-F71E1D93191F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8511BFF4-F1FF-420C-9CA1-DA8F46583906} = {CE329079-6328-4E56-B726-ABF1A4DC4FB2}
+		{FC67B46C-6EFE-4E85-B689-255F09574A08} = {CE329079-6328-4E56-B726-ABF1A4DC4FB2}
+	EndGlobalSection
+EndGlobal

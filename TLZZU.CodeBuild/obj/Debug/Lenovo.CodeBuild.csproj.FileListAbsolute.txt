@@ -1,0 +1,14 @@
+D:\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\bin\Debug\Lenovo.CodeBuild.dll
+D:\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\bin\Debug\Lenovo.CodeBuild.pdb
+D:\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.dll
+D:\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.pdb
+D:\百度云同步盘\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\bin\Debug\Lenovo.CodeBuild.dll
+D:\百度云同步盘\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\bin\Debug\Lenovo.CodeBuild.pdb
+D:\百度云同步盘\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.csprojResolveAssemblyReference.cache
+D:\百度云同步盘\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.dll
+D:\百度云同步盘\Code\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.pdb
+C:\Users\tlzzu\Desktop\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\bin\Debug\Lenovo.CodeBuild.dll
+C:\Users\tlzzu\Desktop\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\bin\Debug\Lenovo.CodeBuild.pdb
+C:\Users\tlzzu\Desktop\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.csprojResolveAssemblyReference.cache
+C:\Users\tlzzu\Desktop\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.dll
+C:\Users\tlzzu\Desktop\CodeBuilder\Lenovo.CodeBuild\Lenovo.CodeBuild\obj\Debug\Lenovo.CodeBuild.pdb
